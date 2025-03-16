@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1d9dfe9-011e-4edc-bbfc-811e26b6e4b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Book_Recommender_System.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProcFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/popular.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similarity_scores.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/books.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/popular.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pt.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/recommend.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/similarity_scores.pkl" afterDir="false" />
-    </list>
+    <list default="true" id="e1d9dfe9-011e-4edc-bbfc-811e26b6e4b4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741943040261</updated>
       <workItem from="1741943041425" duration="17427000" />
-      <workItem from="1742099528424" duration="327000" />
+      <workItem from="1742099528424" duration="652000" />
     </task>
     <servers />
   </component>
