@@ -1,7 +1,0 @@
-import bz2file as bz2
-import pickle
-def compressed_pickle(title, books):
-
-with bz2.BZ2File(title + ‘.pbz2’, ‘w’) as f:
-pickle.dump(books, f)
-compressed_pickle(‘books’, model)
